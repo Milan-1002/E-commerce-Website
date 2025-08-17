@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Sample T-Shirt",
+    "description": "Comfortable cotton t-shirt perfect for casual wear",
+    "price": 25,
+    "category": "Men",
+    "subCategory": "Topwear",
+    "sizes": ["S", "M", "L", "XL"],
+    "bestseller": true,
+    "images": [
+      "path/to/your/image1.png",
+      "path/to/your/image2.png"
+    ]
+  },
+  {
+    "name": "Women's Dress",
+    "description": "Elegant dress for special occasions",
+    "price": 45,
+    "category": "Women",
+    "subCategory": "Topwear",
+    "sizes": ["S", "M", "L"],
+    "bestseller": false,
+    "images": [
+      "path/to/your/dress1.png",
+      "path/to/your/dress2.png"
+    ]
+  }
+]
