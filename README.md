@@ -59,7 +59,7 @@ A full-stack e-commerce application built with React.js, Node.js, Express.js, an
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Milan-1002/E-commerce-Website.git
    cd Ecommerce-app
    ```
 
